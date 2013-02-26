@@ -1,6 +1,8 @@
-Silly GMail Password Manager
+Gmail Sidebar Gadget Password Manager
+=====================================
+
+* Data saved in you user GMail prefs.
 
 Started after I noticed I was placing all my passwords in the Gmail tasks.
-Saved in GMail prefs.
 Not meant for the most secure passwords.
 
